@@ -1,6 +1,9 @@
 env/
 .vscode/
 
+# Project files
+index.html
+wine.txt
 
 # Project exclude paths
 /venv/
